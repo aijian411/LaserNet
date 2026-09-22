@@ -199,13 +199,5 @@ For questions regarding the code, dataset, or research collaboration, please con
 
 **Qiannan Gao**
 
-School of Electronics and Information  
-Hangzhou Dianzi University
-
 Email: `liamgao825@gmail.com`
 
----
-
-## Acknowledgement
-
-This work was supported by the National Key R&D Program of China, the National Natural Science Foundation of China, and the Zhejiang Provincial Natural Science Foundation of China.

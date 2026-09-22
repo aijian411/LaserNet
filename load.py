@@ -1,13 +1,5 @@
 def extract_time_features(dt_series, freq="ms"):
-    """
-    将字符串时间戳（如 1970-01-01 13:54:55.141）转换为时间特征向量
-    freq: 控制提取粒度，可选：
-        - 'h'：hour
-        - 't'：minute, second, millisecond
-        - 's'：second only
-        - 'ms'：hour, minute, second, millisecond
-        - 'none'：dummy zero
-    """
+
     time_features = []
     for t in dt_series:
         try:

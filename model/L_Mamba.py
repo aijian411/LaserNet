@@ -5,9 +5,6 @@ from layers.Embed import DataEmbedding_inverted
 
 from mamba_ssm import Mamba
 class Model(nn.Module):
-    """
-    Paper link: https://arxiv.org/abs/2310.06625
-    """
 
     def __init__(self, configs):
         super(Model, self).__init__()
